@@ -50,8 +50,7 @@ I'm a **Solutions Architect** and **Backend Developer** based in **Manila, Phili
 
 ## 📫 Let's Connect!
 
-- 🌐 [Personal Website](https://hollabalo.github.io)
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01a2b3c4d5e6f7g8h9)
+- 🌐 [Personal Website](https://makalshrek.github.io)
 
 ## 🎖️ Badges
 
